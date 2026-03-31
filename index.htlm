@@ -17,6 +17,7 @@
 </head>
 <body>
 
+  <!-- Affiche le PDF -->
   <iframe src="Portfolio.pdf"></iframe>
 
 </body>
